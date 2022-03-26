@@ -1,8 +1,9 @@
 # Hello 👋, I'm Uclort
 
-- 🇨🇳 iOS 开发 6 年经验
-- 🇨🇳 会 `Objective-C`、`Swift`、`Vue`、`JavaScript`
-- 🇨🇳 写过 `UniApp`、`Flutter`
+- 🇨🇳 方向：iOS 开发 - 6 年经验
+- 🇨🇳 语言：`Objective-C`、`Swift`、`Vue`、`JavaScript`
+- 🇨🇳 技能：`UniApp`、`Flutter`
+- 🇨🇳 目标：财富自由
 
 <div align="center">
   <a href="https://github.com/AdaoBMF">
