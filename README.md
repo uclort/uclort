@@ -1,4 +1,8 @@
-### Hi there 👋
+### Buenas! Eu sou o Adão
+
+- 🔭 Atualmente tentando ingressar no mercado de Desenvolvimento Java
+- 🤓 Estudando Java
+- 😄 Pronouns: ele/dele/he/him
 
 <div align="center">
   <a href="https://github.com/AdaoBMF">
