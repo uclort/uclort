@@ -1,6 +1,6 @@
 # Hello 👋, I'm Uclort
 
-- 🇨🇳 方向：iOS 开发 - 6 年经验
+- 🇨🇳 方向：`iOS` 开发 - 6 年经验
 - 🇨🇳 语言：`Objective-C`、`Swift`、`Vue`、`JavaScript`
 - 🇨🇳 技能：`UniApp`、`Flutter`
 - 🇨🇳 目标：财富自由
