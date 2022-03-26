@@ -1,8 +1,6 @@
-### Buenas! Eu sou o Adão
+**About**
 
-- 🔭 Atualmente tentando ingressar no mercado de Desenvolvimento Java
-- 🤓 Estudando Java
-- 😄 Pronouns: ele/dele/he/him
+-  **Languages :** Swift, Objective-C, Vue, JavaScript
 
 <div align="center">
   <a href="https://github.com/AdaoBMF">
