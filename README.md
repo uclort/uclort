@@ -1,8 +1,8 @@
 # 👋 欢迎老铁
 
-- 🇨🇳 方向：iOS 开发 - 6 年经验
-- 🇨🇳 语言：Objective-C、Swift、Vue、JavaScript
-- 🇨🇳 技能：UniApp、Flutter
+- 🇨🇳 方向：iOS 开发
+- 🇨🇳 语言：Objective-C、Swift、JavaScript
+- 🇨🇳 技能：SwiftUI、UniApp、Flutter
 - 🇨🇳 目标：财富自由
 
 <div align="center">
